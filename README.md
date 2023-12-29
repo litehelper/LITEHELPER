@@ -13,7 +13,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/Ramonymous/ThePAK
+git clone https://github.com/litehelper/ThePAK
 ```
 5. Open ThePAK directory and run setup.
 ```
@@ -39,4 +39,4 @@ bash setup
 5. Before and After Repacking
 ![Result](/screenshot/beforeafter_repacking.jpg)
 
-### Subscribe to my YouTube channel to get updated script https://m.youtube.com/channel/UCaSgCLuITuQxXWWsdNfjyVw
+### litehelper op
